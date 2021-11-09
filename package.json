@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/navarrorncf/teacher-notebooks-checker/issues"
   },
-  "homepage": "https://github.com/navarrorncf/teacher-notebooks-checker#readme"
+  "homepage": "https://github.com/navarrorncf/teacher-notebooks-checker#readme",
+  "devDependencies": {
+    "webpack": "^5.62.2",
+    "webpack-cli": "^4.9.1"
+  }
 }
