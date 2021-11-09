@@ -1,4 +1,6 @@
-import { getEmptyDiv, getNodeWithInnerHTML } from "./js/utils/htmlGenerator";
+import { getEmptyDiv } from "./js/utils/htmlGenerator";
+
+import bootstrap from "./js/bootstrap";
 
 /*
  * HTML STRUCTURE BOOSTRAPPING
@@ -6,29 +8,10 @@ import { getEmptyDiv, getNodeWithInnerHTML } from "./js/utils/htmlGenerator";
 
 const container = getEmptyDiv(["container"]);
 
-container.appendChild(
-  getNodeWithInnerHTML("<h1>CONTROLE DE DIÁRIOS</h1>", "div", ["title"])
+container.append(
+  bootstrap.title(),
+  bootstrap.options(),
+  bootstrap.reportContainer()
 );
 
-const optionsDiv = getEmptyDiv(["options"]);
-
-const filterTypeContainer = document.createElement("div");
-
-const filterTypeLabel = document.createElement("label");
-filterTypeLabel.setAttribute("for", "filter-type");
-filterTypeLabel.innerText = "Filtrar por";
-
-const filterTypeSelect = document.createElement("select");
-filterTypeSelect.name = "filter-type";
-filterTypeSelect.id = "filter-type";
-
-filterTypeContainer.id = "filter-type-container";
-filterTypeContainer.appendChild(filterTypeLabel);
-filterTypeContainer.appendChild(filterTypeSelect);
-
-optionsDiv.appendChild(filterTypeContainer);
-
-const body = document.querySelector("body");
-
-body.appendChild(container);
-body.appendChild(optionsDiv);
+document.querySelector("body").appendChild(container);
