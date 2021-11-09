@@ -4,7 +4,8 @@
   "description": "an application for programatically checking teachers registers in iEducar, the current school management system in the public school system in Brasília, Brazil.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "dev": "webpack serve --hot"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   "homepage": "https://github.com/navarrorncf/teacher-notebooks-checker#readme",
   "devDependencies": {
     "webpack": "^5.62.2",
-    "webpack-cli": "^4.9.1"
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
   }
 }
