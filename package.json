@@ -1,0 +1,23 @@
+{
+  "name": "teacher-notebooks-checker",
+  "version": "1.0.0",
+  "description": "an application for programatically checking teachers registers in iEducar, the current school management system in the public school system in Brasília, Brazil.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navarrorncf/teacher-notebooks-checker.git"
+  },
+  "keywords": [
+    "SEEDF",
+    "iEducar"
+  ],
+  "author": "Rafael Navarro Canizares Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navarrorncf/teacher-notebooks-checker/issues"
+  },
+  "homepage": "https://github.com/navarrorncf/teacher-notebooks-checker#readme"
+}
