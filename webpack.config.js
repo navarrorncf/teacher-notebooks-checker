@@ -8,6 +8,14 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
   },
   mode: "development",
+  module: {
+    rules: [
+      {
+        test: /\.txt$/,
+        type: "asset/source",
+      },
+    ],
+  },
   devServer: {
     static: {
       directory: path.resolve(__dirname, "./dist"),
