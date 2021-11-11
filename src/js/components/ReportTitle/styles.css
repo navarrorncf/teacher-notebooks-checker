@@ -1,0 +1,9 @@
+.report-title {
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 2rem;
+  padding: 2rem;
+  background: #09b2;
+  border-bottom: solid 1px #8888;
+  font-weight: 100;
+}
