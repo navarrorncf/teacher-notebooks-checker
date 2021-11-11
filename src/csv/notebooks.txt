@@ -1,0 +1,742 @@
+
+
+Centro de Ensino Médio 02 de Brazlândia
+Diários fechados por bimestre - impresso em 10-11-2021 às 15:02
+* OBS: A legenda 'ok' representa apenas que o diário foi fechado, não havendo nesse momento qualquer validação ou verificação no conteúdo, quantidade e qualidade dos registros de cada diário.
+ 
+Turma	Disciplina	Diário	Professor 	 1º Bimestre  	 2º Bimestre  	 1º semestre  	 3º Bimestre  	 4º Bimestre  	 2º semestre 
+ Braúna 	 Biologia 	 536917 	 Adila Barros dos Santos  	 ok  (aulas: 48)	 aberto  (aulas: 36)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Bromélia 	 Biologia 	 586023 	 Adila Barros dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tucuxi 	 Biologia 	 536918 	 Adila Barros dos Santos  	 ok  (aulas: 42)	 aberto  (aulas: 36)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Uacari 	 Biologia 	 586024 	 Adila Barros dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Ariranha 	 História 	 551668 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Chauá 	 História 	 551669 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 38)	 aberto  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacutinga 	 História 	 580938 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Muriqui 	 História 	 580939 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Sagui 	 História 	 580940 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Arara-azul 	 História 	 551670 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 36)	 aberto  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gato-maracajá 	 História 	 551671 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 44)	 aberto  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gavião-real 	 História 	 551672 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 44)	 aberto  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Lobo-guará 	 História 	 551673 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 36)	 aberto  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mico-leão-dourado 	 História 	 551674 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 36)	 aberto  (aulas: 40)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Onça-pintada 	 História 	 580941 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Tamanduá-bandeira 	 História 	 580942 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Tartaruga-gigante 	 História 	 580943 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tatu-bola 	 História 	 580944 	 Alessandro Setimus Antunes Rodrigues Lira Ribeiro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Braúna 	 Educação Física 	 538250 	 Almir Hermes Belo  	 aberto  (aulas: 18)	 aberto  (aulas: 20)	 38 aulas 	 aberto  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Bromélia 	 Educação Física 	 538236 	 Almir Hermes Belo  	 aberto  (aulas: 18)	 aberto  (aulas: 20)	 38 aulas 	 aberto  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Baru 	 Biologia 	 586058 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Biologia 	 554374 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Biologia 	 554375 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Biologia 	 586059 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Biologia 	 586061 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Biologia 	 554376 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Biologia 	 554377 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Biologia 	 554378 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Biologia 	 554379 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Biologia 	 586065 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Biologia 	 586066 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Biologia 	 586067 	 Ana Carla Farias Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Física 	 579638 	 Ana Luiza Batista da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Angelim 	 Física 	 579639 	 Ana Luiza Batista da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Araucária 	 Física 	 579640 	 Ana Luiza Batista da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Caixeta 	 Física 	 579641 	 Ana Luiza Batista da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Castanheira 	 Física 	 579642 	 Ana Luiza Batista da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Cedro 	 Física 	 579643 	 Ana Luiza Batista da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Cerejeira 	 Física 	 579644 	 Ana Luiza Batista da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Garapeira 	 Física 	 537190 	 Ana Luiza Batista da Silva  	 ok  (aulas: 26)	 ok  (aulas: 38)	 64 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Imbuia 	 Física 	 537192 	 Ana Luiza Batista da Silva  	 ok  (aulas: 26)	 ok  (aulas: 38)	 64 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacarandá 	 Física 	 537193 	 Ana Luiza Batista da Silva  	 ok  (aulas: 24)	 ok  (aulas: 42)	 66 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jatobá 	 Física 	 537194 	 Ana Luiza Batista da Silva  	 ok  (aulas: 24)	 ok  (aulas: 42)	 66 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jequitibá 	 Física 	 537195 	 Ana Luiza Batista da Silva  	 ok  (aulas: 24)	 ok  (aulas: 40)	 64 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mogno 	 Física 	 537196 	 Ana Luiza Batista da Silva  	 ok  (aulas: 24)	 ok  (aulas: 42)	 66 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pau-Brasil 	 Física 	 537197 	 Ana Luiza Batista da Silva  	 ok  (aulas: 24)	 ok  (aulas: 40)	 64 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Química 	 535693 	 Ana Paula Alves Claro  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Angelim 	 Química 	 535695 	 Ana Paula Alves Claro  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Araucária 	 Química 	 535696 	 Ana Paula Alves Claro  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caixeta 	 Química 	 535697 	 Ana Paula Alves Claro  	 ok  (aulas: 38)	 ok  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Castanheira 	 Química 	 535698 	 Ana Paula Alves Claro  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cedro 	 Química 	 535699 	 Ana Paula Alves Claro  	 ok  (aulas: 38)	 ok  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerejeira 	 Química 	 535701 	 Ana Paula Alves Claro  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Garapeira 	 Química 	 582204 	 Ana Paula Alves Claro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Imbuia 	 Química 	 582205 	 Ana Paula Alves Claro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Jacarandá 	 Química 	 582206 	 Ana Paula Alves Claro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Jatobá 	 Química 	 582207 	 Ana Paula Alves Claro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Jequitibá 	 Química 	 582208 	 Ana Paula Alves Claro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Mogno 	 Química 	 582209 	 Ana Paula Alves Claro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Pau-Brasil 	 Química 	 582210 	 Ana Paula Alves Claro  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Angelim 	 Filosofia 	 547300 	 Andre Luiz Couto Costa  	 aberto  (aulas: 44)	 aberto  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Araucária 	 Filosofia 	 547301 	 Andre Luiz Couto Costa  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caixeta 	 Filosofia 	 547302 	 Andre Luiz Couto Costa  	 aberto  (aulas: 44)	 aberto  (aulas: 38)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Castanheira 	 Filosofia 	 547303 	 Andre Luiz Couto Costa  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cedro 	 Filosofia 	 547304 	 Andre Luiz Couto Costa  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerejeira 	 Filosofia 	 547305 	 Andre Luiz Couto Costa  	 aberto  (aulas: 36)	 aberto  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Garapeira 	 Filosofia 	 579536 	 Bruno Rezende Mattos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 16)	 aberto  (aulas: 0)	 16 aulas 
+ Imbuia 	 Filosofia 	 579537 	 Bruno Rezende Mattos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 16)	 aberto  (aulas: 0)	 16 aulas 
+ Jacarandá 	 Filosofia 	 579538 	 Bruno Rezende Mattos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Jatobá 	 Filosofia 	 579539 	 Bruno Rezende Mattos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Jequitibá 	 Filosofia 	 579540 	 Bruno Rezende Mattos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 16)	 aberto  (aulas: 0)	 16 aulas 
+ Mogno 	 Filosofia 	 579541 	 Bruno Rezende Mattos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Pau-Brasil 	 Filosofia 	 579542 	 Bruno Rezende Mattos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 16)	 aberto  (aulas: 0)	 16 aulas 
+ Savana 	 Física 	 547868 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Física 	 586045 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Física 	 586046 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Física 	 547869 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Física 	 547870 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Física 	 547871 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Física 	 547872 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Física 	 586047 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Física 	 586048 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Física 	 586049 	 Carolina Borges Miranda  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Braúna 	 Geografia 	 583586 	 Celia Maria de Sousa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Braúna 	 História 	 551924 	 Celia Maria de Sousa  	 ok  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Bromélia 	 Geografia 	 551931 	 Celia Maria de Sousa  	 ok  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Bromélia 	 História 	 583587 	 Celia Maria de Sousa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tucuxi 	 Geografia 	 583588 	 Celia Maria de Sousa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tucuxi 	 História 	 551934 	 Celia Maria de Sousa  	 ok  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Uacari 	 Geografia 	 551935 	 Celia Maria de Sousa  	 ok  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Uacari 	 História 	 583589 	 Celia Maria de Sousa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Baru 	 História 	 586942 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 História 	 560037 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 História 	 560038 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 História 	 586941 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 História 	 586943 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 História 	 560039 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 História 	 560040 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 História 	 560041 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 História 	 560042 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 História 	 586944 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 História 	 586945 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 História 	 586946 	 Claudio Cesar Goncalves da Paixao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Arte 	 586033 	 Danielle Costa dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Angelim 	 Arte 	 586034 	 Danielle Costa dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Araucária 	 Arte 	 586035 	 Danielle Costa dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Caixeta 	 Arte 	 586036 	 Danielle Costa dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Castanheira 	 Arte 	 586037 	 Danielle Costa dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Cedro 	 Arte 	 586038 	 Danielle Costa dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Cerejeira 	 Arte 	 586039 	 Danielle Costa dos Santos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Garapeira 	 Arte 	 555147 	 Danielle Costa dos Santos  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Imbuia 	 Arte 	 555149 	 Danielle Costa dos Santos  	 ok  (aulas: 40)	 ok  (aulas: 36)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacarandá 	 Arte 	 555150 	 Danielle Costa dos Santos  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jatobá 	 Arte 	 555151 	 Danielle Costa dos Santos  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jequitibá 	 Arte 	 555152 	 Danielle Costa dos Santos  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mogno 	 Arte 	 555153 	 Danielle Costa dos Santos  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pau-Brasil 	 Arte 	 555154 	 Danielle Costa dos Santos  	 ok  (aulas: 36)	 ok  (aulas: 40)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Biologia 	 561121 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 36)	 aberto  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Chauá 	 Biologia 	 561122 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacutinga 	 Biologia 	 580047 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Muriqui 	 Biologia 	 580048 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Sagui 	 Biologia 	 580049 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Arara-azul 	 Biologia 	 561123 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gato-maracajá 	 Biologia 	 561124 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 38)	 aberto  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gavião-real 	 Biologia 	 561125 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Lobo-guará 	 Biologia 	 561126 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 44)	 aberto  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mico-leão-dourado 	 Biologia 	 561127 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 38)	 aberto  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Onça-pintada 	 Biologia 	 580050 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Tamanduá-bandeira 	 Biologia 	 580051 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tartaruga-gigante 	 Biologia 	 580052 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Tatu-bola 	 Biologia 	 580056 	 Delminda Aparecida de Souza Venancio  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Braúna 	 Língua Estrangeira Moderna - Inglês 	 536791 	 Denilce Alves da Silva  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Braúna 	 Língua Portuguesa 	 536792 	 Denilce Alves da Silva  	 ok  (aulas: 42)	 ok  (aulas: 36)	 78 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Bromélia 	 Língua Estrangeira Moderna - Inglês 	 582534 	 Denilce Alves da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Bromélia 	 Língua Portuguesa 	 536793 	 Denilce Alves da Silva  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Tucuxi 	 Língua Estrangeira Moderna - Inglês 	 536794 	 Denilce Alves da Silva  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Língua Portuguesa 	 536795 	 Denilce Alves da Silva  	 ok  (aulas: 42)	 ok  (aulas: 36)	 78 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Uacari 	 Língua Estrangeira Moderna - Inglês 	 582535 	 Denilce Alves da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Uacari 	 Língua Portuguesa 	 536796 	 Denilce Alves da Silva  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Andiroba 	 Educação Física 	 558700 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Angelim 	 Educação Física 	 558701 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Araucária 	 Educação Física 	 558702 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Caixeta 	 Educação Física 	 558704 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Castanheira 	 Educação Física 	 558705 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Cedro 	 Educação Física 	 558706 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Cerejeira 	 Educação Física 	 558707 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Garapeira 	 Educação Física 	 558708 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Imbuia 	 Educação Física 	 558709 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Jacarandá 	 Educação Física 	 558710 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Jatobá 	 Educação Física 	 558711 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Jequitibá 	 Educação Física 	 558712 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Mogno 	 Educação Física 	 558713 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Pau-Brasil 	 Educação Física 	 558714 	 Diego Rodrigues Pimentel da Silva  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Amazônia 	 Língua Portuguesa 	 547571 	 Edcelia da Rocha Monteiro Rodrigues Alves  	 aberto  (aulas: 34)	 aberto  (aulas: 45)	 79 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Amazônia 	 Projeto Interdisciplinar II 	 586081 	 Edcelia da Rocha Monteiro Rodrigues Alves  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Pantanal 	 Projeto Interdisciplinar II 	 547572 	 Edcelia da Rocha Monteiro Rodrigues Alves  	 aberto  (aulas: 19)	 aberto  (aulas: 21)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mata Atlântica 	 Língua Portuguesa 	 547573 	 Edcelia da Rocha Monteiro Rodrigues Alves  	 aberto  (aulas: 34)	 aberto  (aulas: 42)	 76 aulas 	 aberto  (aulas: 39)	 aberto  (aulas: 0)	 39 aulas 
+ Cerrado 	 Língua Portuguesa 	 547575 	 Edcelia da Rocha Monteiro Rodrigues Alves  	 aberto  (aulas: 36)	 aberto  (aulas: 41)	 77 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Ariranha 	 Química 	 535345 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Chauá 	 Química 	 535346 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacutinga 	 Química 	 579217 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 12)	 52 aulas 
+ Muriqui 	 Química 	 579218 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 12)	 52 aulas 
+ Sagui 	 Química 	 579219 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 12)	 50 aulas 
+ Arara-azul 	 Química 	 535347 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gato-maracajá 	 Química 	 535350 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gavião-real 	 Química 	 535351 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 38)	 aberto  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Lobo-guará 	 Química 	 535353 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 44)	 aberto  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mico-leão-dourado 	 Química 	 535354 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Onça-pintada 	 Química 	 579220 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Tamanduá-bandeira 	 Química 	 579221 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Tartaruga-gigante 	 Química 	 579222 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tatu-bola 	 Química 	 579223 	 Edivaldo Jose da Conceicao da Cunha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Amazônia 	 Biologia 	 552915 	 Eduardo Jacob da Fonseca  	 aberto  (aulas: 40)	 aberto  (aulas: 38)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pantanal 	 Biologia 	 586456 	 Eduardo Jacob da Fonseca  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 41)	 aberto  (aulas: 0)	 41 aulas 
+ Mata Atlântica 	 Biologia 	 552916 	 Eduardo Jacob da Fonseca  	 aberto  (aulas: 39)	 aberto  (aulas: 39)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pampas 	 Biologia 	 586457 	 Eduardo Jacob da Fonseca  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 41)	 aberto  (aulas: 0)	 41 aulas 
+ Caatinga 	 Biologia 	 586460 	 Eduardo Jacob da Fonseca  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 41)	 aberto  (aulas: 0)	 41 aulas 
+ Cerrado 	 Biologia 	 552917 	 Eduardo Jacob da Fonseca  	 ok  (aulas: 39)	 aberto  (aulas: 39)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Amazônia 	 História 	 540676 	 Elizanes Geraldo de Oliveira  	 aberto  (aulas: 42)	 aberto  (aulas: 39)	 81 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pantanal 	 História 	 588002 	 Elizanes Geraldo de Oliveira  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Mata Atlântica 	 História 	 540677 	 Elizanes Geraldo de Oliveira  	 aberto  (aulas: 43)	 aberto  (aulas: 39)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pampas 	 História 	 588003 	 Elizanes Geraldo de Oliveira  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 39)	 aberto  (aulas: 0)	 39 aulas 
+ Caatinga 	 História 	 588004 	 Elizanes Geraldo de Oliveira  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Cerrado 	 História 	 540678 	 Elizanes Geraldo de Oliveira  	 aberto  (aulas: 42)	 aberto  (aulas: 36)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Sociologia 	 580902 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Angelim 	 Sociologia 	 580901 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Araucária 	 Sociologia 	 580900 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Caixeta 	 Sociologia 	 580899 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Castanheira 	 Sociologia 	 580898 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Cedro 	 Sociologia 	 580897 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Cerejeira 	 Sociologia 	 580896 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Garapeira 	 Sociologia 	 536776 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 38)	 aberto  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Imbuia 	 Sociologia 	 536777 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacarandá 	 Sociologia 	 536778 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jatobá 	 Sociologia 	 536779 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jequitibá 	 Sociologia 	 536780 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mogno 	 Sociologia 	 536781 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pau-Brasil 	 Sociologia 	 536782 	 Emily Jorcy Dias Araujo  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Braúna 	 Química 	 536423 	 Everton dos Santos Teixeira de Oliveira  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Bromélia 	 Química 	 585212 	 Everton dos Santos Teixeira de Oliveira  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Tucuxi 	 Química 	 536424 	 Everton dos Santos Teixeira de Oliveira  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Uacari 	 Química 	 585213 	 Everton dos Santos Teixeira de Oliveira  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Andiroba 	 História 	 542309 	 Fernando Jose Henriques  	 ok  (aulas: 38)	 ok  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Angelim 	 História 	 542310 	 Fernando Jose Henriques  	 ok  (aulas: 38)	 ok  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Araucária 	 História 	 542312 	 Fernando Jose Henriques  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caixeta 	 História 	 542313 	 Fernando Jose Henriques  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Castanheira 	 História 	 542314 	 Fernando Jose Henriques  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cedro 	 História 	 542315 	 Fernando Jose Henriques  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerejeira 	 História 	 542316 	 Fernando Jose Henriques  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Garapeira 	 História 	 579890 	 Fernando Jose Henriques  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Imbuia 	 História 	 579891 	 Fernando Jose Henriques  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Jacarandá 	 História 	 579892 	 Fernando Jose Henriques  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Jatobá 	 História 	 579893 	 Fernando Jose Henriques  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Jequitibá 	 História 	 579894 	 Fernando Jose Henriques  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Mogno 	 História 	 579895 	 Fernando Jose Henriques  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Pau-Brasil 	 História 	 579896 	 Fernando Jose Henriques  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Amazônia 	 Química 	 553747 	 Fernando Jose Santana  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pantanal 	 Química 	 586068 	 Fernando Jose Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Mata Atlântica 	 Química 	 553749 	 Fernando Jose Santana  	 aberto  (aulas: 36)	 aberto  (aulas: 41)	 77 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pampas 	 Química 	 586069 	 Fernando Jose Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Caatinga 	 Química 	 586070 	 Fernando Jose Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Cerrado 	 Química 	 553751 	 Fernando Jose Santana  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Educação Física 	 539466 	 Flavio Alexandre Lopes de Lima  	 aberto  (aulas: 24)	 aberto  (aulas: 24)	 48 aulas 	 aberto  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Uacari 	 Educação Física 	 539467 	 Flavio Alexandre Lopes de Lima  	 aberto  (aulas: 24)	 aberto  (aulas: 24)	 48 aulas 	 aberto  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Amazônia 	 Filosofia 	 561092 	 Francisco Ferreira da Costa  	 aberto  (aulas: 41)	 aberto  (aulas: 34)	 75 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pantanal 	 Filosofia 	 586339 	 Francisco Ferreira da Costa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Mata Atlântica 	 Filosofia 	 561093 	 Francisco Ferreira da Costa  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pampas 	 Filosofia 	 586340 	 Francisco Ferreira da Costa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Caatinga 	 Filosofia 	 586341 	 Francisco Ferreira da Costa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Cerrado 	 Filosofia 	 561094 	 Francisco Ferreira da Costa  	 aberto  (aulas: 42)	 aberto  (aulas: 33)	 75 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Língua Portuguesa 	 545860 	 Geise Marta de Oliveira  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 4)	 44 aulas 
+ Angelim 	 Língua Portuguesa 	 545861 	 Geise Marta de Oliveira  	 ok  (aulas: 38)	 ok  (aulas: 40)	 78 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 2)	 44 aulas 
+ Araucária 	 Língua Portuguesa 	 545863 	 Geise Marta de Oliveira  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 2)	 40 aulas 
+ Caixeta 	 Língua Portuguesa 	 545866 	 Geise Marta de Oliveira  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 2)	 44 aulas 
+ Castanheira 	 Língua Portuguesa 	 545868 	 Geise Marta de Oliveira  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Cedro 	 Língua Portuguesa 	 545870 	 Geise Marta de Oliveira  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 2)	 40 aulas 
+ Cerejeira 	 Língua Portuguesa 	 545873 	 Geise Marta de Oliveira  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 4)	 44 aulas 
+ Ariranha 	 Arte 	 567758 	 Gerlane Victor de Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Chauá 	 Arte 	 567759 	 Gerlane Victor de Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 2)	 42 aulas 
+ Jacutinga 	 Arte 	 551058 	 Gerlane Victor de Santana  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Muriqui 	 Arte 	 551056 	 Gerlane Victor de Santana  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Sagui 	 Arte 	 551054 	 Gerlane Victor de Santana  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Arte 	 567760 	 Gerlane Victor de Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 12)	 50 aulas 
+ Gato-maracajá 	 Arte 	 567761 	 Gerlane Victor de Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 14)	 54 aulas 
+ Gavião-real 	 Arte 	 567762 	 Gerlane Victor de Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 12)	 52 aulas 
+ Lobo-guará 	 Arte 	 567763 	 Gerlane Victor de Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 12)	 50 aulas 
+ Mico-leão-dourado 	 Arte 	 567764 	 Gerlane Victor de Santana  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 12)	 50 aulas 
+ Onça-pintada 	 Arte 	 551051 	 Gerlane Victor de Santana  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tamanduá-bandeira 	 Arte 	 551048 	 Gerlane Victor de Santana  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tartaruga-gigante 	 Arte 	 551059 	 Gerlane Victor de Santana  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tatu-bola 	 Arte 	 551046 	 Gerlane Victor de Santana  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Braúna 	 Arte 	 582094 	 Herbert Barbosa de Freitas  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Bromélia 	 Arte 	 542635 	 Herbert Barbosa de Freitas  	 ok  (aulas: 34)	 aberto  (aulas: 38)	 72 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Arte 	 583194 	 Herbert Barbosa de Freitas  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Uacari 	 Arte 	 542636 	 Herbert Barbosa de Freitas  	 ok  (aulas: 34)	 aberto  (aulas: 38)	 72 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Projeto Interdisciplinar II 	 585275 	 Herton Renz Junior  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 4)	 24 aulas 
+ Chauá 	 Projeto Interdisciplinar II 	 585276 	 Herton Renz Junior  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 4)	 24 aulas 
+ Jacutinga 	 Matemática 	 536861 	 Herton Renz Junior  	 ok  (aulas: 27)	 ok  (aulas: 31)	 58 aulas 	 ok  (aulas: 31)	 aberto  (aulas: 6)	 37 aulas 
+ Jacutinga 	 Projeto Interdisciplinar II 	 536862 	 Herton Renz Junior  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Muriqui 	 Matemática 	 536864 	 Herton Renz Junior  	 ok  (aulas: 31)	 ok  (aulas: 30)	 61 aulas 	 ok  (aulas: 29)	 aberto  (aulas: 8)	 37 aulas 
+ Muriqui 	 Projeto Interdisciplinar II 	 536875 	 Herton Renz Junior  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Sagui 	 Matemática 	 536872 	 Herton Renz Junior  	 ok  (aulas: 31)	 ok  (aulas: 30)	 61 aulas 	 ok  (aulas: 28)	 aberto  (aulas: 7)	 35 aulas 
+ Sagui 	 Projeto Interdisciplinar II 	 536878 	 Herton Renz Junior  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Projeto Interdisciplinar II 	 585277 	 Herton Renz Junior  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 8)	 28 aulas 
+ Arara-azul 	 Projeto Interdisciplinar II 	 585278 	 Herton Renz Junior  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 8)	 28 aulas 
+ Onça-pintada 	 Matemática 	 536880 	 Herton Renz Junior  	 ok  (aulas: 27)	 ok  (aulas: 31)	 58 aulas 	 ok  (aulas: 30)	 aberto  (aulas: 7)	 37 aulas 
+ Onça-pintada 	 Projeto Interdisciplinar II 	 536883 	 Herton Renz Junior  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tamanduá-bandeira 	 Matemática 	 536868 	 Herton Renz Junior  	 ok  (aulas: 29)	 ok  (aulas: 29)	 58 aulas 	 ok  (aulas: 31)	 aberto  (aulas: 8)	 39 aulas 
+ Tartaruga-gigante 	 Matemática 	 536884 	 Herton Renz Junior  	 ok  (aulas: 31)	 ok  (aulas: 31)	 62 aulas 	 ok  (aulas: 31)	 aberto  (aulas: 10)	 41 aulas 
+ Tatu-bola 	 Matemática 	 536866 	 Herton Renz Junior  	 ok  (aulas: 31)	 ok  (aulas: 28)	 59 aulas 	 ok  (aulas: 29)	 aberto  (aulas: 6)	 35 aulas 
+ Andiroba 	 Biologia 	 550294 	 Igor da Costa Pacheco  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Angelim 	 Biologia 	 550296 	 Igor da Costa Pacheco  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Araucária 	 Biologia 	 550298 	 Igor da Costa Pacheco  	 ok  (aulas: 38)	 ok  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caixeta 	 Biologia 	 550299 	 Igor da Costa Pacheco  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Castanheira 	 Biologia 	 550302 	 Igor da Costa Pacheco  	 ok  (aulas: 38)	 ok  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cedro 	 Biologia 	 550304 	 Igor da Costa Pacheco  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerejeira 	 Biologia 	 550306 	 Igor da Costa Pacheco  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Garapeira 	 Biologia 	 579248 	 Igor da Costa Pacheco  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Imbuia 	 Biologia 	 579249 	 Igor da Costa Pacheco  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Jacarandá 	 Biologia 	 579250 	 Igor da Costa Pacheco  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Jatobá 	 Biologia 	 579251 	 Igor da Costa Pacheco  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Jequitibá 	 Biologia 	 579252 	 Igor da Costa Pacheco  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Mogno 	 Biologia 	 579253 	 Igor da Costa Pacheco  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Pau-Brasil 	 Biologia 	 579254 	 Igor da Costa Pacheco  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Amazônia 	 Arte 	 586132 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Pantanal 	 Arte 	 552912 	 Isabela Alves Rocha  	 aberto  (aulas: 20)	 aberto  (aulas: 20)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mata Atlântica 	 Arte 	 586134 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 13)	 aberto  (aulas: 0)	 13 aulas 
+ Pampas 	 Arte 	 552913 	 Isabela Alves Rocha  	 aberto  (aulas: 18)	 aberto  (aulas: 20)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caatinga 	 Arte 	 552914 	 Isabela Alves Rocha  	 aberto  (aulas: 20)	 aberto  (aulas: 20)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerrado 	 Arte 	 586135 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Baru 	 Arte 	 586136 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Arte 	 552918 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Arte 	 552919 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Arte 	 586137 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Arte 	 586138 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Arte 	 552920 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Arte 	 552921 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Arte 	 552922 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Arte 	 552923 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Arte 	 586139 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Arte 	 586140 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Arte 	 586141 	 Isabela Alves Rocha  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Garapeira 	 Língua Portuguesa 	 544645 	 Jesiane de Oliveira Figueredo  	 ok  (aulas: 40)	 ok  (aulas: 44)	 84 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Imbuia 	 Língua Portuguesa 	 544646 	 Jesiane de Oliveira Figueredo  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Jacarandá 	 Língua Portuguesa 	 544647 	 Jesiane de Oliveira Figueredo  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Jatobá 	 Língua Portuguesa 	 544649 	 Jesiane de Oliveira Figueredo  	 ok  (aulas: 38)	 ok  (aulas: 42)	 80 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Jequitibá 	 Língua Portuguesa 	 544651 	 Jesiane de Oliveira Figueredo  	 ok  (aulas: 44)	 ok  (aulas: 38)	 82 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Mogno 	 Língua Portuguesa 	 544654 	 Jesiane de Oliveira Figueredo  	 ok  (aulas: 44)	 ok  (aulas: 36)	 80 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Pau-Brasil 	 Língua Portuguesa 	 544657 	 Jesiane de Oliveira Figueredo  	 ok  (aulas: 2)	 ok  (aulas: 40)	 42 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Braúna 	 Filosofia 	 553938 	 Josias Galdino de Gusmao  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Braúna 	 Sociologia 	 586095 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Bromélia 	 Filosofia 	 586096 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Bromélia 	 Sociologia 	 553937 	 Josias Galdino de Gusmao  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Filosofia 	 553936 	 Josias Galdino de Gusmao  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Sociologia 	 586097 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Uacari 	 Filosofia 	 586098 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Uacari 	 Sociologia 	 553935 	 Josias Galdino de Gusmao  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Baru 	 Filosofia 	 586099 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Baru 	 Sociologia 	 586100 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Filosofia 	 553934 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Sociologia 	 553933 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Filosofia 	 553932 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Sociologia 	 553931 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Filosofia 	 586101 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Sociologia 	 586102 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Filosofia 	 586103 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Sociologia 	 586105 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Filosofia 	 553929 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Sociologia 	 553926 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Filosofia 	 553923 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Sociologia 	 553920 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Filosofia 	 553916 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Sociologia 	 553912 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Filosofia 	 553910 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Sociologia 	 553905 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Filosofia 	 586982 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Sociologia 	 586983 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Filosofia 	 586984 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Sociologia 	 586985 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Filosofia 	 586986 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Sociologia 	 586987 	 Josias Galdino de Gusmao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Língua Estrangeira Moderna - Espanhol 	 585311 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Angelim 	 Língua Estrangeira Moderna - Espanhol 	 585312 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Araucária 	 Língua Estrangeira Moderna - Espanhol 	 585313 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Caixeta 	 Língua Estrangeira Moderna - Espanhol 	 585314 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Castanheira 	 Língua Estrangeira Moderna - Espanhol 	 585315 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Cedro 	 Língua Estrangeira Moderna - Espanhol 	 585316 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Garapeira 	 Língua Estrangeira Moderna - Espanhol 	 551801 	 Juliana de Franca Catalao  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Imbuia 	 Língua Estrangeira Moderna - Espanhol 	 551803 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacarandá 	 Língua Estrangeira Moderna - Espanhol 	 551806 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jatobá 	 Língua Estrangeira Moderna - Espanhol 	 551810 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jequitibá 	 Língua Estrangeira Moderna - Espanhol 	 551811 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mogno 	 Língua Estrangeira Moderna - Espanhol 	 551812 	 Juliana de Franca Catalao  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pau-Brasil 	 Língua Estrangeira Moderna - Espanhol 	 551813 	 Juliana de Franca Catalao  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Língua Estrangeira Moderna - Espanhol 	 585317 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Braúna 	 Língua Estrangeira Moderna - Espanhol 	 585318 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Chauá 	 Língua Estrangeira Moderna - Espanhol 	 585319 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Jacutinga 	 Língua Estrangeira Moderna - Espanhol 	 551814 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Muriqui 	 Língua Estrangeira Moderna - Espanhol 	 551815 	 Juliana de Franca Catalao  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Sagui 	 Língua Estrangeira Moderna - Espanhol 	 551816 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Língua Estrangeira Moderna - Espanhol 	 585320 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Uacari 	 Língua Estrangeira Moderna - Espanhol 	 551818 	 Juliana de Franca Catalao  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Língua Estrangeira Moderna - Espanhol 	 585321 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Gato-maracajá 	 Língua Estrangeira Moderna - Espanhol 	 585322 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Gavião-real 	 Língua Estrangeira Moderna - Espanhol 	 585323 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Lobo-guará 	 Língua Estrangeira Moderna - Espanhol 	 585324 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Mico-leão-dourado 	 Língua Estrangeira Moderna - Espanhol 	 585325 	 Juliana de Franca Catalao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Onça-pintada 	 Língua Estrangeira Moderna - Espanhol 	 551819 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tamanduá-bandeira 	 Língua Estrangeira Moderna - Espanhol 	 551820 	 Juliana de Franca Catalao  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tartaruga-gigante 	 Língua Estrangeira Moderna - Espanhol 	 551822 	 Juliana de Franca Catalao  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tatu-bola 	 Língua Estrangeira Moderna - Espanhol 	 551825 	 Juliana de Franca Catalao  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerejeira 	 Língua Estrangeira Moderna - Espanhol 	 585484 	 Karen Elen Nunes de Almeida  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Bromélia 	 Língua Estrangeira Moderna - Espanhol 	 544915 	 Karen Elen Nunes de Almeida  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Matemática 	 535471 	 Karine Alencar da Silva  	 ok  (aulas: 32)	 ok  (aulas: 1)	 33 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Chauá 	 Matemática 	 535472 	 Karine Alencar da Silva  	 ok  (aulas: 28)	 ok  (aulas: 2)	 30 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Uacari 	 Projeto Interdisciplinar II 	 535475 	 Karine Alencar da Silva  	 ok  (aulas: 22)	 ok  (aulas: 1)	 23 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Matemática 	 535476 	 Karine Alencar da Silva  	 ok  (aulas: 31)	 ok  (aulas: 1)	 32 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Gato-maracajá 	 Matemática 	 535477 	 Karine Alencar da Silva  	 ok  (aulas: 33)	 ok  (aulas: 2)	 35 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Gato-maracajá 	 Projeto Interdisciplinar II 	 585852 	 Karine Alencar da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Gavião-real 	 Matemática 	 535479 	 Karine Alencar da Silva  	 ok  (aulas: 29)	 ok  (aulas: 2)	 31 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Gavião-real 	 Projeto Interdisciplinar II 	 585853 	 Karine Alencar da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Lobo-guará 	 Matemática 	 535481 	 Karine Alencar da Silva  	 ok  (aulas: 28)	 ok  (aulas: 2)	 30 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Lobo-guará 	 Projeto Interdisciplinar II 	 585854 	 Karine Alencar da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Mico-leão-dourado 	 Matemática 	 535483 	 Karine Alencar da Silva  	 ok  (aulas: 27)	 ok  (aulas: 2)	 29 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Mico-leão-dourado 	 Projeto Interdisciplinar II 	 585855 	 Karine Alencar da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Tamanduá-bandeira 	 Projeto Interdisciplinar II 	 535485 	 Karine Alencar da Silva  	 ok  (aulas: 18)	 ok  (aulas: 1)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tartaruga-gigante 	 Projeto Interdisciplinar II 	 535486 	 Karine Alencar da Silva  	 ok  (aulas: 22)	 ok  (aulas: 1)	 23 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tatu-bola 	 Projeto Interdisciplinar II 	 535488 	 Karine Alencar da Silva  	 ok  (aulas: 20)	 ok  (aulas: 1)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Geografia 	 585255 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Chauá 	 Geografia 	 585258 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Jacutinga 	 Geografia 	 539779 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Muriqui 	 Geografia 	 539780 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Sagui 	 Geografia 	 539781 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Geografia 	 585260 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Gato-maracajá 	 Geografia 	 585262 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Gavião-real 	 Geografia 	 585264 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Lobo-guará 	 Geografia 	 585266 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 2)	 44 aulas 
+ Mico-leão-dourado 	 Geografia 	 585267 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Onça-pintada 	 Geografia 	 539783 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 44)	 aberto  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tamanduá-bandeira 	 Geografia 	 539784 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 36)	 aberto  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tartaruga-gigante 	 Geografia 	 539785 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tatu-bola 	 Geografia 	 539786 	 Katiana Jacob de Assuncao  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Braúna 	 Física 	 583433 	 Laryssa Lopes dos Anjos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Braúna 	 Matemática 	 536332 	 Laryssa Lopes dos Anjos  	 ok  (aulas: 32)	 ok  (aulas: 29)	 61 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Bromélia 	 Física 	 536333 	 Laryssa Lopes dos Anjos  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Bromélia 	 Matemática 	 536335 	 Laryssa Lopes dos Anjos  	 ok  (aulas: 31)	 ok  (aulas: 28)	 59 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Tucuxi 	 Física 	 583434 	 Laryssa Lopes dos Anjos  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Tucuxi 	 Matemática 	 536337 	 Laryssa Lopes dos Anjos  	 ok  (aulas: 32)	 ok  (aulas: 29)	 61 aulas 	 ok  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Uacari 	 Física 	 536338 	 Laryssa Lopes dos Anjos  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Uacari 	 Matemática 	 536344 	 Laryssa Lopes dos Anjos  	 ok  (aulas: 31)	 ok  (aulas: 28)	 59 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Baru 	 Química 	 586114 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Química 	 540993 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Química 	 540996 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Química 	 586113 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Química 	 586112 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Química 	 540997 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Química 	 540999 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Química 	 541001 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Química 	 541003 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Química 	 586108 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Química 	 586110 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Química 	 586111 	 Lilian Resende do Nascimento  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacutinga 	 Língua Portuguesa 	 539863 	 Lindiane da Cunha Barros  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Muriqui 	 Língua Portuguesa 	 539865 	 Lindiane da Cunha Barros  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Sagui 	 Língua Portuguesa 	 539867 	 Lindiane da Cunha Barros  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Onça-pintada 	 Língua Portuguesa 	 539869 	 Lindiane da Cunha Barros  	 ok  (aulas: 38)	 ok  (aulas: 38)	 76 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Tamanduá-bandeira 	 Língua Portuguesa 	 539870 	 Lindiane da Cunha Barros  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Tartaruga-gigante 	 Língua Portuguesa 	 539871 	 Lindiane da Cunha Barros  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tatu-bola 	 Língua Portuguesa 	 539872 	 Lindiane da Cunha Barros  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Caatinga 	 Língua Estrangeira Moderna - Inglês 	 586062 	 Lisie Queiroz da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Cerrado 	 Língua Estrangeira Moderna - Inglês 	 539689 	 Lisie Queiroz da Silva  	 aberto  (aulas: 20)	 aberto  (aulas: 20)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Baru 	 Língua Portuguesa 	 586060 	 Lisie Queiroz da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Língua Portuguesa 	 539690 	 Lisie Queiroz da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Língua Portuguesa 	 539696 	 Lisie Queiroz da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Língua Portuguesa 	 586063 	 Lisie Queiroz da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Língua Portuguesa 	 586064 	 Lisie Queiroz da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Língua Portuguesa 	 539698 	 Lisie Queiroz da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Baru 	 Física 	 587137 	 Lucas Lima Pinto  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Física 	 544632 	 Lucas Lima Pinto  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Física 	 582164 	 Luiz Fernando Barrozo Malaquias  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 4)	 46 aulas 
+ Chauá 	 Física 	 582165 	 Luiz Fernando Barrozo Malaquias  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 4)	 46 aulas 
+ Jacutinga 	 Física 	 537594 	 Luiz Fernando Barrozo Malaquias  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Muriqui 	 Física 	 537595 	 Luiz Fernando Barrozo Malaquias  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Sagui 	 Física 	 537596 	 Luiz Fernando Barrozo Malaquias  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Física 	 582166 	 Luiz Fernando Barrozo Malaquias  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 4)	 46 aulas 
+ Gato-maracajá 	 Física 	 582167 	 Luiz Fernando Barrozo Malaquias  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 4)	 42 aulas 
+ Gavião-real 	 Física 	 582169 	 Luiz Fernando Barrozo Malaquias  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 4)	 42 aulas 
+ Lobo-guará 	 Física 	 582170 	 Luiz Fernando Barrozo Malaquias  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 4)	 42 aulas 
+ Mico-leão-dourado 	 Física 	 582172 	 Luiz Fernando Barrozo Malaquias  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 4)	 44 aulas 
+ Onça-pintada 	 Física 	 537597 	 Luiz Fernando Barrozo Malaquias  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tamanduá-bandeira 	 Física 	 537598 	 Luiz Fernando Barrozo Malaquias  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tartaruga-gigante 	 Física 	 537599 	 Luiz Fernando Barrozo Malaquias  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tatu-bola 	 Física 	 537600 	 Luiz Fernando Barrozo Malaquias  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caatinga 	 Matemática 	 541552 	 Marcia Maria Alves Guimaraes  	 aberto  (aulas: 31)	 aberto  (aulas: 28)	 59 aulas 	 aberto  (aulas: 32)	 aberto  (aulas: 0)	 32 aulas 
+ Baru 	 Matemática 	 586342 	 Marcia Maria Alves Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Matemática 	 541557 	 Marcia Maria Alves Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Matemática 	 541560 	 Marcia Maria Alves Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Matemática 	 586343 	 Marcia Maria Alves Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Matemática 	 586344 	 Marcia Maria Alves Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Matemática 	 541567 	 Marcia Maria Alves Guimaraes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Araucária 	 Projeto Interdisciplinar II 	 578979 	 Marcos Antonio de Azambuja Freitas  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 8)	 28 aulas 
+ Castanheira 	 Projeto Interdisciplinar II 	 578980 	 Marcos Antonio de Azambuja Freitas  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 4)	 24 aulas 
+ Cedro 	 Projeto Interdisciplinar II 	 578981 	 Marcos Antonio de Azambuja Freitas  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 4)	 24 aulas 
+ Garapeira 	 Matemática 	 535582 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 31)	 ok  (aulas: 30)	 61 aulas 	 ok  (aulas: 31)	 aberto  (aulas: 6)	 37 aulas 
+ Garapeira 	 Projeto Interdisciplinar II 	 535585 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Imbuia 	 Matemática 	 535587 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 31)	 ok  (aulas: 30)	 61 aulas 	 ok  (aulas: 29)	 aberto  (aulas: 8)	 37 aulas 
+ Imbuia 	 Projeto Interdisciplinar II 	 535591 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacarandá 	 Matemática 	 535593 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 27)	 ok  (aulas: 31)	 58 aulas 	 ok  (aulas: 28)	 aberto  (aulas: 7)	 35 aulas 
+ Jacarandá 	 Projeto Interdisciplinar II 	 535598 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jatobá 	 Matemática 	 535601 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 27)	 ok  (aulas: 31)	 58 aulas 	 ok  (aulas: 30)	 aberto  (aulas: 7)	 37 aulas 
+ Jatobá 	 Projeto Interdisciplinar II 	 535604 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jequitibá 	 Matemática 	 535607 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 29)	 ok  (aulas: 29)	 58 aulas 	 ok  (aulas: 31)	 aberto  (aulas: 8)	 39 aulas 
+ Mogno 	 Matemática 	 535609 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 31)	 ok  (aulas: 31)	 62 aulas 	 ok  (aulas: 31)	 aberto  (aulas: 10)	 41 aulas 
+ Pau-Brasil 	 Matemática 	 535610 	 Marcos Antonio de Azambuja Freitas  	 ok  (aulas: 31)	 ok  (aulas: 28)	 59 aulas 	 ok  (aulas: 29)	 aberto  (aulas: 6)	 35 aulas 
+ Braúna 	 Projeto Interdisciplinar II 	 578982 	 Marcos Antonio de Azambuja Freitas  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 8)	 28 aulas 
+ Tundra 	 Matemática 	 558664 	 Marcos Antonio dos Santos e Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Matemática 	 558666 	 Marcos Antonio dos Santos e Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Matemática 	 558667 	 Marcos Antonio dos Santos e Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Matemática 	 586229 	 Marcos Antonio dos Santos e Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Matemática 	 586230 	 Marcos Antonio dos Santos e Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Matemática 	 586231 	 Marcos Antonio dos Santos e Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Educação Física 	 554256 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 6)	 26 aulas 
+ Chauá 	 Educação Física 	 554257 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 6)	 24 aulas 
+ Jacutinga 	 Educação Física 	 554258 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 6)	 26 aulas 
+ Muriqui 	 Educação Física 	 554259 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 6)	 24 aulas 
+ Sagui 	 Educação Física 	 554260 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 10)	 30 aulas 
+ Arara-azul 	 Educação Física 	 554261 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 4)	 26 aulas 
+ Gato-maracajá 	 Educação Física 	 554262 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 6)	 28 aulas 
+ Gavião-real 	 Educação Física 	 554263 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 10)	 30 aulas 
+ Lobo-guará 	 Educação Física 	 554264 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 6)	 28 aulas 
+ Mico-leão-dourado 	 Educação Física 	 554265 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 10)	 30 aulas 
+ Onça-pintada 	 Educação Física 	 554266 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 10)	 28 aulas 
+ Tamanduá-bandeira 	 Educação Física 	 554267 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 18)	 ok  (aulas: 22)	 40 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 10)	 30 aulas 
+ Tartaruga-gigante 	 Educação Física 	 554268 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 10)	 30 aulas 
+ Tatu-bola 	 Educação Física 	 554269 	 Marcos Antonio Lima de Oliveira  	 ok  (aulas: 22)	 ok  (aulas: 20)	 42 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 6)	 26 aulas 
+ Amazônia 	 Educação Física 	 586133 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Pantanal 	 Educação Física 	 557675 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 25)	 aberto  (aulas: 19)	 44 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mata Atlântica 	 Educação Física 	 586232 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Pampas 	 Educação Física 	 557676 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 22)	 aberto  (aulas: 21)	 43 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caatinga 	 Educação Física 	 557677 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 25)	 aberto  (aulas: 21)	 46 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerrado 	 Educação Física 	 586233 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Baru 	 Educação Física 	 586236 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Educação Física 	 557678 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Educação Física 	 557679 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Educação Física 	 586237 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Educação Física 	 586238 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Educação Física 	 557680 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Educação Física 	 557681 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Educação Física 	 557682 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Educação Física 	 557683 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Educação Física 	 586239 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Educação Física 	 586240 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Educação Física 	 586241 	 Naiane de Castro Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Amazônia 	 Língua Estrangeira Moderna - Inglês 	 552924 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 22)	 aberto  (aulas: 20)	 42 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pantanal 	 Língua Estrangeira Moderna - Inglês 	 586050 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Mata Atlântica 	 Língua Estrangeira Moderna - Inglês 	 552925 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 20)	 aberto  (aulas: 20)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pampas 	 Língua Estrangeira Moderna - Inglês 	 586051 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 1)	 aberto  (aulas: 0)	 1 aulas 
+ Baru 	 Língua Estrangeira Moderna - Inglês 	 586052 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Língua Estrangeira Moderna - Inglês 	 552926 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Língua Estrangeira Moderna - Inglês 	 552928 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Língua Estrangeira Moderna - Inglês 	 586053 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Língua Estrangeira Moderna - Inglês 	 586054 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Língua Estrangeira Moderna - Inglês 	 552930 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Língua Estrangeira Moderna - Inglês 	 552931 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Língua Estrangeira Moderna - Inglês 	 552933 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Língua Estrangeira Moderna - Inglês 	 552934 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Língua Estrangeira Moderna - Inglês 	 586055 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Língua Estrangeira Moderna - Inglês 	 586056 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Língua Estrangeira Moderna - Inglês 	 586057 	 Paulo Vinicius de Almeida Frazao  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Matemática 	 557524 	 Placido Vieira Aines  	 ok  (aulas: 32)	 ok  (aulas: 7)	 39 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Andiroba 	 Projeto Interdisciplinar II 	 586225 	 Placido Vieira Aines  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Angelim 	 Matemática 	 557525 	 Placido Vieira Aines  	 ok  (aulas: 28)	 ok  (aulas: 9)	 37 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Angelim 	 Projeto Interdisciplinar II 	 586226 	 Placido Vieira Aines  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 18)	 aberto  (aulas: 0)	 18 aulas 
+ Araucária 	 Matemática 	 557526 	 Placido Vieira Aines  	 ok  (aulas: 27)	 ok  (aulas: 9)	 36 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Caixeta 	 Matemática 	 557527 	 Placido Vieira Aines  	 ok  (aulas: 31)	 ok  (aulas: 7)	 38 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Caixeta 	 Projeto Interdisciplinar II 	 586227 	 Placido Vieira Aines  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 22)	 aberto  (aulas: 0)	 22 aulas 
+ Castanheira 	 Matemática 	 557528 	 Placido Vieira Aines  	 ok  (aulas: 33)	 ok  (aulas: 6)	 39 aulas 	 ok  (aulas: 21)	 aberto  (aulas: 0)	 21 aulas 
+ Cedro 	 Matemática 	 557529 	 Placido Vieira Aines  	 ok  (aulas: 31)	 ok  (aulas: 7)	 38 aulas 	 ok  (aulas: 19)	 aberto  (aulas: 0)	 19 aulas 
+ Cerejeira 	 Matemática 	 557530 	 Placido Vieira Aines  	 ok  (aulas: 27)	 ok  (aulas: 9)	 36 aulas 	 ok  (aulas: 19)	 aberto  (aulas: 0)	 19 aulas 
+ Cerejeira 	 Projeto Interdisciplinar II 	 586228 	 Placido Vieira Aines  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 20)	 aberto  (aulas: 0)	 20 aulas 
+ Jequitibá 	 Projeto Interdisciplinar II 	 557531 	 Placido Vieira Aines  	 ok  (aulas: 18)	 ok  (aulas: 20)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mogno 	 Projeto Interdisciplinar II 	 557532 	 Placido Vieira Aines  	 ok  (aulas: 22)	 ok  (aulas: 18)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pau-Brasil 	 Projeto Interdisciplinar II 	 557533 	 Placido Vieira Aines  	 ok  (aulas: 20)	 ok  (aulas: 18)	 38 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Bromélia 	 Projeto Interdisciplinar II 	 557534 	 Placido Vieira Aines  	 ok  (aulas: 22)	 ok  (aulas: 18)	 40 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Filosofia 	 539092 	 Ricardo Vieira Cardoso  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Chauá 	 Filosofia 	 539093 	 Ricardo Vieira Cardoso  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacutinga 	 Filosofia 	 579237 	 Ricardo Vieira Cardoso  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Muriqui 	 Filosofia 	 579238 	 Ricardo Vieira Cardoso  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Sagui 	 Filosofia 	 579239 	 Ricardo Vieira Cardoso  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Arara-azul 	 Filosofia 	 539096 	 Ricardo Vieira Cardoso  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gato-maracajá 	 Filosofia 	 539097 	 Ricardo Vieira Cardoso  	 ok  (aulas: 38)	 ok  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gavião-real 	 Filosofia 	 539101 	 Ricardo Vieira Cardoso  	 ok  (aulas: 38)	 ok  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Lobo-guará 	 Filosofia 	 539105 	 Ricardo Vieira Cardoso  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mico-leão-dourado 	 Filosofia 	 539106 	 Ricardo Vieira Cardoso  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Onça-pintada 	 Filosofia 	 579240 	 Ricardo Vieira Cardoso  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tamanduá-bandeira 	 Filosofia 	 579241 	 Ricardo Vieira Cardoso  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Tartaruga-gigante 	 Filosofia 	 579242 	 Ricardo Vieira Cardoso  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tatu-bola 	 Filosofia 	 579243 	 Ricardo Vieira Cardoso  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Amazônia 	 Geografia 	 586251 	 Roberto Bento da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 41)	 aberto  (aulas: 0)	 41 aulas 
+ Pantanal 	 Geografia 	 541352 	 Roberto Bento da Silva  	 aberto  (aulas: 43)	 aberto  (aulas: 38)	 81 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mata Atlântica 	 Geografia 	 586252 	 Roberto Bento da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 41)	 aberto  (aulas: 0)	 41 aulas 
+ Pampas 	 Geografia 	 541356 	 Roberto Bento da Silva  	 aberto  (aulas: 43)	 aberto  (aulas: 39)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caatinga 	 Geografia 	 541358 	 Roberto Bento da Silva  	 aberto  (aulas: 42)	 aberto  (aulas: 40)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerrado 	 Geografia 	 586253 	 Roberto Bento da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Amazônia 	 Física 	 587135 	 Ronair de Menezes Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pantanal 	 Física 	 544628 	 Ronair de Menezes Silva  	 aberto  (aulas: 37)	 aberto  (aulas: 41)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mata Atlântica 	 Física 	 587136 	 Ronair de Menezes Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pampas 	 Física 	 544629 	 Ronair de Menezes Silva  	 aberto  (aulas: 38)	 aberto  (aulas: 39)	 77 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caatinga 	 Física 	 544631 	 Ronair de Menezes Silva  	 aberto  (aulas: 37)	 aberto  (aulas: 40)	 77 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerrado 	 Física 	 587138 	 Ronair de Menezes Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 4)	 aberto  (aulas: 0)	 4 aulas 
+ Ariranha 	 Língua Portuguesa 	 536380 	 Samara Cristina Goncalves dos Santos  	 ok  (aulas: 40)	 ok  (aulas: 38)	 78 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Chauá 	 Língua Portuguesa 	 536382 	 Samara Cristina Goncalves dos Santos  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Arara-azul 	 Língua Portuguesa 	 536384 	 Samara Cristina Goncalves dos Santos  	 ok  (aulas: 38)	 ok  (aulas: 42)	 80 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Gato-maracajá 	 Língua Portuguesa 	 536386 	 Samara Cristina Goncalves dos Santos  	 ok  (aulas: 40)	 ok  (aulas: 38)	 78 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Gavião-real 	 Língua Portuguesa 	 536393 	 Samara Cristina Goncalves dos Santos  	 ok  (aulas: 40)	 ok  (aulas: 44)	 84 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Lobo-guará 	 Língua Portuguesa 	 536406 	 Samara Cristina Goncalves dos Santos  	 ok  (aulas: 36)	 ok  (aulas: 40)	 76 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Mico-leão-dourado 	 Língua Portuguesa 	 536410 	 Samara Cristina Goncalves dos Santos  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 ok  (aulas: 2)	 aberto  (aulas: 0)	 2 aulas 
+ Ariranha 	 Sociologia 	 585214 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Chauá 	 Sociologia 	 585215 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Jacutinga 	 Sociologia 	 557793 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Muriqui 	 Sociologia 	 557794 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 38)	 aberto  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Sagui 	 Sociologia 	 557795 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Sociologia 	 585216 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Gato-maracajá 	 Sociologia 	 585217 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Gavião-real 	 Sociologia 	 585218 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Lobo-guará 	 Sociologia 	 585219 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Mico-leão-dourado 	 Sociologia 	 585220 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Onça-pintada 	 Sociologia 	 557796 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tamanduá-bandeira 	 Sociologia 	 557797 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tartaruga-gigante 	 Sociologia 	 557798 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tatu-bola 	 Sociologia 	 557799 	 Sarah Victoria Almeida Rodrigues  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pantanal 	 Língua Portuguesa 	 540042 	 Silvana Maxima da Silva Ferreira Mota  	 aberto  (aulas: 38)	 aberto  (aulas: 41)	 79 aulas 	 aberto  (aulas: 39)	 aberto  (aulas: 0)	 39 aulas 
+ Mata Atlântica 	 Projeto Interdisciplinar II 	 586090 	 Silvana Maxima da Silva Ferreira Mota  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 21)	 aberto  (aulas: 0)	 21 aulas 
+ Pampas 	 Língua Portuguesa 	 540045 	 Silvana Maxima da Silva Ferreira Mota  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 41)	 aberto  (aulas: 0)	 41 aulas 
+ Pampas 	 Projeto Interdisciplinar II 	 540046 	 Silvana Maxima da Silva Ferreira Mota  	 aberto  (aulas: 20)	 aberto  (aulas: 21)	 41 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caatinga 	 Língua Portuguesa 	 540048 	 Silvana Maxima da Silva Ferreira Mota  	 ok  (aulas: 38)	 ok  (aulas: 42)	 80 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 2)	 42 aulas 
+ Caatinga 	 Projeto Interdisciplinar II 	 540051 	 Silvana Maxima da Silva Ferreira Mota  	 aberto  (aulas: 19)	 aberto  (aulas: 20)	 39 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerrado 	 Projeto Interdisciplinar II 	 586091 	 Silvana Maxima da Silva Ferreira Mota  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 19)	 aberto  (aulas: 0)	 19 aulas 
+ Andiroba 	 Língua Estrangeira Moderna - Inglês 	 538927 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Angelim 	 Língua Estrangeira Moderna - Inglês 	 538928 	 Silvano Rodrigues da Silva  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Araucária 	 Língua Estrangeira Moderna - Inglês 	 538929 	 Silvano Rodrigues da Silva  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caixeta 	 Língua Estrangeira Moderna - Inglês 	 538930 	 Silvano Rodrigues da Silva  	 ok  (aulas: 38)	 ok  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Castanheira 	 Língua Estrangeira Moderna - Inglês 	 538931 	 Silvano Rodrigues da Silva  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cedro 	 Língua Estrangeira Moderna - Inglês 	 538932 	 Silvano Rodrigues da Silva  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerejeira 	 Língua Estrangeira Moderna - Inglês 	 538933 	 Silvano Rodrigues da Silva  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Garapeira 	 Língua Estrangeira Moderna - Inglês 	 586016 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Imbuia 	 Língua Estrangeira Moderna - Inglês 	 586017 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Jacarandá 	 Língua Estrangeira Moderna - Inglês 	 586018 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Jatobá 	 Língua Estrangeira Moderna - Inglês 	 586019 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Jequitibá 	 Língua Estrangeira Moderna - Inglês 	 586020 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 0)	 38 aulas 
+ Mogno 	 Língua Estrangeira Moderna - Inglês 	 586021 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Pau-Brasil 	 Língua Estrangeira Moderna - Inglês 	 586022 	 Silvano Rodrigues da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 0)	 40 aulas 
+ Tundra 	 Língua Portuguesa 	 540625 	 Sintia Simone de Sa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Língua Portuguesa 	 540626 	 Sintia Simone de Sa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Língua Portuguesa 	 540627 	 Sintia Simone de Sa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Língua Portuguesa 	 586094 	 Sintia Simone de Sa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Língua Portuguesa 	 586093 	 Sintia Simone de Sa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Língua Portuguesa 	 586092 	 Sintia Simone de Sa  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Amazônia 	 Sociologia 	 588014 	 Sostenes Dias Souza  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 34)	 aberto  (aulas: 2)	 36 aulas 
+ Pantanal 	 Sociologia 	 555694 	 Sostenes Dias Souza  	 aberto  (aulas: 35)	 aberto  (aulas: 1)	 36 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mata Atlântica 	 Sociologia 	 588015 	 Sostenes Dias Souza  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 36)	 aberto  (aulas: 1)	 37 aulas 
+ Pampas 	 Sociologia 	 555695 	 Sostenes Dias Souza  	 aberto  (aulas: 33)	 aberto  (aulas: 1)	 34 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caatinga 	 Sociologia 	 555696 	 Sostenes Dias Souza  	 aberto  (aulas: 10)	 aberto  (aulas: 1)	 11 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerrado 	 Sociologia 	 588016 	 Sostenes Dias Souza  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 34)	 aberto  (aulas: 3)	 37 aulas 
+ Andiroba 	 Projeto Interdisciplinar I 	 535645 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Projeto Interdisciplinar III 	 580545 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Angelim 	 Projeto Interdisciplinar I 	 535647 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Angelim 	 Projeto Interdisciplinar III 	 580546 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Araucária 	 Projeto Interdisciplinar I 	 535650 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Araucária 	 Projeto Interdisciplinar III 	 580547 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Caixeta 	 Projeto Interdisciplinar I 	 535652 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Caixeta 	 Projeto Interdisciplinar III 	 580548 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Castanheira 	 Projeto Interdisciplinar I 	 535653 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Castanheira 	 Projeto Interdisciplinar III 	 580549 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Cedro 	 Projeto Interdisciplinar I 	 535654 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cedro 	 Projeto Interdisciplinar III 	 580550 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Cerejeira 	 Projeto Interdisciplinar I 	 535656 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Cerejeira 	 Projeto Interdisciplinar III 	 580551 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Garapeira 	 Projeto Interdisciplinar I 	 580552 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Garapeira 	 Projeto Interdisciplinar III 	 535657 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Imbuia 	 Projeto Interdisciplinar I 	 580553 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Imbuia 	 Projeto Interdisciplinar III 	 535658 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacarandá 	 Projeto Interdisciplinar I 	 580554 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Jacarandá 	 Projeto Interdisciplinar III 	 535663 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jatobá 	 Projeto Interdisciplinar I 	 580555 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Jatobá 	 Projeto Interdisciplinar III 	 535666 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jequitibá 	 Projeto Interdisciplinar I 	 580556 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Jequitibá 	 Projeto Interdisciplinar III 	 535671 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mogno 	 Projeto Interdisciplinar I 	 580559 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Mogno 	 Projeto Interdisciplinar III 	 535674 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pau-Brasil 	 Projeto Interdisciplinar I 	 581676 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Pau-Brasil 	 Projeto Interdisciplinar III 	 535676 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Projeto Interdisciplinar I 	 535682 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Ariranha 	 Projeto Interdisciplinar III 	 581677 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Braúna 	 Projeto Interdisciplinar I 	 535685 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Braúna 	 Projeto Interdisciplinar III 	 580557 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Bromélia 	 Projeto Interdisciplinar I 	 580558 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Bromélia 	 Projeto Interdisciplinar III 	 535687 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Chauá 	 Projeto Interdisciplinar I 	 535689 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Chauá 	 Projeto Interdisciplinar III 	 581679 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Jacutinga 	 Projeto Interdisciplinar I 	 580560 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Jacutinga 	 Projeto Interdisciplinar III 	 535691 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Muriqui 	 Projeto Interdisciplinar I 	 580561 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Muriqui 	 Projeto Interdisciplinar III 	 535694 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Sagui 	 Projeto Interdisciplinar I 	 580562 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Sagui 	 Projeto Interdisciplinar III 	 535703 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Projeto Interdisciplinar I 	 535707 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tucuxi 	 Projeto Interdisciplinar III 	 581678 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Uacari 	 Projeto Interdisciplinar I 	 580563 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Uacari 	 Projeto Interdisciplinar III 	 535710 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Projeto Interdisciplinar I 	 535719 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Arara-azul 	 Projeto Interdisciplinar III 	 581680 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 9)	 aberto  (aulas: 3)	 12 aulas 
+ Gato-maracajá 	 Projeto Interdisciplinar I 	 535724 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gato-maracajá 	 Projeto Interdisciplinar III 	 581681 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Gavião-real 	 Projeto Interdisciplinar I 	 535728 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gavião-real 	 Projeto Interdisciplinar III 	 581682 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Lobo-guará 	 Projeto Interdisciplinar I 	 535733 	 Talita Caixeta Queiroz  	 ok  (aulas: 10)	 ok  (aulas: 9)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Lobo-guará 	 Projeto Interdisciplinar III 	 581683 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Mico-leão-dourado 	 Projeto Interdisciplinar I 	 535735 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 10)	 19 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mico-leão-dourado 	 Projeto Interdisciplinar III 	 581684 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 3)	 13 aulas 
+ Onça-pintada 	 Projeto Interdisciplinar I 	 580565 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 10)	 aberto  (aulas: 5)	 15 aulas 
+ Onça-pintada 	 Projeto Interdisciplinar III 	 535736 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tamanduá-bandeira 	 Projeto Interdisciplinar I 	 580566 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Tamanduá-bandeira 	 Projeto Interdisciplinar III 	 535737 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tartaruga-gigante 	 Projeto Interdisciplinar I 	 580568 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Tartaruga-gigante 	 Projeto Interdisciplinar III 	 535740 	 Talita Caixeta Queiroz  	 ok  (aulas: 9)	 ok  (aulas: 11)	 20 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tatu-bola 	 Projeto Interdisciplinar I 	 580569 	 Talita Caixeta Queiroz  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 11)	 aberto  (aulas: 2)	 13 aulas 
+ Tatu-bola 	 Projeto Interdisciplinar III 	 535744 	 Talita Caixeta Queiroz  	 ok  (aulas: 11)	 ok  (aulas: 10)	 21 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Geografia 	 580754 	 Teresa Cristina de Araujo Castanheiro da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 36)	 aberto  (aulas: 2)	 38 aulas 
+ Angelim 	 Geografia 	 580755 	 Teresa Cristina de Araujo Castanheiro da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 4)	 44 aulas 
+ Araucária 	 Geografia 	 580722 	 Teresa Cristina de Araujo Castanheiro da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 2)	 40 aulas 
+ Caixeta 	 Geografia 	 580756 	 Teresa Cristina de Araujo Castanheiro da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 2)	 40 aulas 
+ Castanheira 	 Geografia 	 580757 	 Teresa Cristina de Araujo Castanheiro da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 2)	 40 aulas 
+ Cedro 	 Geografia 	 580758 	 Teresa Cristina de Araujo Castanheiro da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Cerejeira 	 Geografia 	 580759 	 Teresa Cristina de Araujo Castanheiro da Silva  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 0)	 42 aulas 
+ Garapeira 	 Geografia 	 552036 	 Teresa Cristina de Araujo Castanheiro da Silva  	 ok  (aulas: 40)	 ok  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Imbuia 	 Geografia 	 552037 	 Teresa Cristina de Araujo Castanheiro da Silva  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacarandá 	 Geografia 	 552039 	 Teresa Cristina de Araujo Castanheiro da Silva  	 ok  (aulas: 42)	 ok  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jatobá 	 Geografia 	 552040 	 Teresa Cristina de Araujo Castanheiro da Silva  	 ok  (aulas: 44)	 ok  (aulas: 40)	 84 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jequitibá 	 Geografia 	 552041 	 Teresa Cristina de Araujo Castanheiro da Silva  	 ok  (aulas: 36)	 ok  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mogno 	 Geografia 	 552042 	 Teresa Cristina de Araujo Castanheiro da Silva  	 ok  (aulas: 38)	 ok  (aulas: 38)	 76 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pau-Brasil 	 Geografia 	 552043 	 Teresa Cristina de Araujo Castanheiro da Silva  	 ok  (aulas: 40)	 ok  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Amazônia 	 Matemática 	 550910 	 Thiago Pereira de Araujo Bezerra  	 aberto  (aulas: 29)	 aberto  (aulas: 32)	 61 aulas 	 aberto  (aulas: 30)	 aberto  (aulas: 0)	 30 aulas 
+ Pantanal 	 Matemática 	 550914 	 Thiago Pereira de Araujo Bezerra  	 aberto  (aulas: 32)	 aberto  (aulas: 29)	 61 aulas 	 aberto  (aulas: 29)	 aberto  (aulas: 0)	 29 aulas 
+ Mata Atlântica 	 Matemática 	 550916 	 Thiago Pereira de Araujo Bezerra  	 aberto  (aulas: 30)	 aberto  (aulas: 30)	 60 aulas 	 aberto  (aulas: 29)	 aberto  (aulas: 0)	 29 aulas 
+ Pampas 	 Matemática 	 550917 	 Thiago Pereira de Araujo Bezerra  	 aberto  (aulas: 31)	 aberto  (aulas: 27)	 58 aulas 	 aberto  (aulas: 29)	 aberto  (aulas: 0)	 29 aulas 
+ Cerrado 	 Matemática 	 550918 	 Thiago Pereira de Araujo Bezerra  	 aberto  (aulas: 27)	 aberto  (aulas: 31)	 58 aulas 	 aberto  (aulas: 29)	 aberto  (aulas: 0)	 29 aulas 
+ Ariranha 	 Língua Estrangeira Moderna - Inglês 	 535985 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Chauá 	 Língua Estrangeira Moderna - Inglês 	 535987 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 40)	 aberto  (aulas: 40)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jacutinga 	 Língua Estrangeira Moderna - Inglês 	 579020 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 10)	 50 aulas 
+ Muriqui 	 Língua Estrangeira Moderna - Inglês 	 579019 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 12)	 52 aulas 
+ Sagui 	 Língua Estrangeira Moderna - Inglês 	 579018 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 42)	 aberto  (aulas: 8)	 50 aulas 
+ Arara-azul 	 Língua Estrangeira Moderna - Inglês 	 535988 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 38)	 aberto  (aulas: 40)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gato-maracajá 	 Língua Estrangeira Moderna - Inglês 	 535989 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 36)	 aberto  (aulas: 42)	 78 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Gavião-real 	 Língua Estrangeira Moderna - Inglês 	 535990 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Lobo-guará 	 Língua Estrangeira Moderna - Inglês 	 535991 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 42)	 aberto  (aulas: 38)	 80 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mico-leão-dourado 	 Língua Estrangeira Moderna - Inglês 	 535992 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Onça-pintada 	 Língua Estrangeira Moderna - Inglês 	 579017 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 8)	 48 aulas 
+ Tamanduá-bandeira 	 Língua Estrangeira Moderna - Inglês 	 579016 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 38)	 aberto  (aulas: 12)	 50 aulas 
+ Tartaruga-gigante 	 Língua Estrangeira Moderna - Inglês 	 579015 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 8)	 48 aulas 
+ Tatu-bola 	 Língua Estrangeira Moderna - Inglês 	 579014 	 Welbet Loiola Pinto de Menezes  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 ok  (aulas: 40)	 aberto  (aulas: 10)	 50 aulas 
+ Baru 	 Geografia 	 586200 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Deserto 	 Geografia 	 561297 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Savana 	 Geografia 	 561298 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Buriti 	 Geografia 	 586201 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Pequi 	 Geografia 	 586202 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Taiga 	 Geografia 	 561299 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Tundra 	 Geografia 	 561302 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Campos 	 Geografia 	 561304 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Florestas 	 Geografia 	 561306 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Graviola 	 Geografia 	 586203 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Jenipapo 	 Geografia 	 586204 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Mangaba 	 Geografia 	 586205 	 Wellington Dias dos Reis  	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+ Andiroba 	 Filosofia 	 547299 	 --- 	 aberto  (aulas: 40)	 aberto  (aulas: 42)	 82 aulas 	 aberto  (aulas: 0)	 aberto  (aulas: 0)	 0 aulas 
+TOTAIS	734 	237 / 497 	228 / 506 	291 / 443 	0 / 734
