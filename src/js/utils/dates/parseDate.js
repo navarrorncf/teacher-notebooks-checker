@@ -25,6 +25,8 @@ const getDayID = (day, month, year) => {
  * @returns the day as a number from 1 through 356 (or 366 if leap year)
  */
 const parseDate = (dateString) => {
+  if (typeof dateString === "number") return dateString;
+
   const dateArr = dateString.split("/");
   if (dateArr.length === 3) {
     let [day, month, year] = dateArr;
