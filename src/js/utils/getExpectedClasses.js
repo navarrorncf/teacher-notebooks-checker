@@ -4,7 +4,12 @@ import { getSemester } from ".";
 
 const getTimeTable = (subject, group, bimester) => {
   const semesterKey = getSemester(bimester);
-  return timetableStore[semesterKey][group][subject];
+
+  const groupName = Object.keys(timetableStore[semesterKey]).find(
+    (groupName) => groupName.toLowerCase() === group.toLowerCase()
+  );
+
+  return timetableStore[semesterKey][groupName][subject];
 };
 
 const getExpectedClasses = (subject, group, bimester) => {
