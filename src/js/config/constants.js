@@ -1,4 +1,4 @@
-export const SUBJECT_NAMES = {
+export const SUBJECT_NAMES_FROM_ABBREVIATIONS = {
   ART: "Arte",
   BIO: "Biologia",
   EDF: "Educação Física",
@@ -36,55 +36,35 @@ export const SUBJECT_ABBREVIATIONS = {
   Sociologia: "SOC",
 };
 
-export const GROUP_NAMES = [
-  "Amazônia",
-  "Andiroba",
-  "Angelim",
-  "Arara-azul",
-  "Araucária",
-  "Ariranha",
-  "Baru",
-  "Braúna",
-  "Bromélia",
-  "Buriti",
-  "Caatinga",
-  "Caixeta",
-  "Campos",
-  "Castanheira",
-  "Cedro",
-  "Cerejeira",
-  "Cerrado",
-  "Chauá",
-  "Deserto",
-  "Florestas",
-  "Garapeira",
-  "Gato-maracajá",
-  "Gavião-real",
-  "Graviola",
-  "Imbuia",
-  "Jacarandá",
-  "Jacutinga",
-  "Jatobá",
-  "Jenipapo",
-  "Jequitibá",
-  "Lobo-guará",
-  "Mangaba",
-  "Mata Atlântica",
-  "Mico-leão-dourado",
-  "Mogno",
-  "Muriqui",
-  "Onça-pintada",
-  "Pampas",
-  "Pantanal",
-  "Pau-Brasil",
-  "Pequi",
-  "Sagui",
-  "Savana",
-  "Taiga",
-  "Tamanduá-bandeira",
-  "Tartaruga-gigante",
-  "Tatu-bola",
-  "Tucuxi",
-  "Tundra",
-  "Uacari",
-];
+export const SUBJECT_GROUP_REGEXPS = {
+  dayShift: {
+    annuals: /portugu.s|matem.tica|educa..o/i,
+    firstBlock:
+      /biologia|filosofia|hist.ria|ingl.s|qu.mica|projeto interdisciplinar I$/i,
+    secondBlock:
+      /arte|espanhol|^f.sica|geografia|sociologia|projeto interdisciplinar II/i,
+  },
+  nightShift: {
+    annuals: /portugu.s|matem.tica/i,
+    firstBlock:
+      /biologia|filosofia|hist.ria|ingl.s|qu.mica|projeto interdisciplinar I$/i,
+    secondBlock:
+      /arte|^f.sica|geografia|sociologia|projeto interdisciplinar II|educa..o/i,
+  },
+};
+
+export const STUDENT_GROUPS_STARTING_BLOCKS = {
+  firstBlock:
+    /^(andi|ange|arau|caix|cast|cedr|cere|arir|chau|arar|gavi|gato|lobo|mico|bra.|tucu|amaz|mata|cerr)/i,
+  secondBlock:
+    /^(gara|imbu|jaca|jato|jequ|mogn|pau-|jacu|muri|sagu|on.a|tama|tart|tatu|brom|uaca|pant|pamp|caat)/i,
+  eja1s: /^(dese|sava|taig|tund|camp|flor)/i,
+  eja2s: /^(baru|buri|pequ|grav|jeni|mang)/i,
+};
+
+export const STUDENT_GROUPS_SHIFTS = {
+  nightShift:
+    /^(amaz|mata|cerr|pant|pamp|caat|dese|sava|taig|tund|camp|flor|baru|buri|pequ|grav|jeni|mang)/i,
+  dayShift:
+    /^(andi|ange|arau|caix|cast|cedr|cere|arir|chau|arar|gavi|gato|lobo|mico|bra.|tucu|gara|imbu|jaca|jato|jequ|mogn|pau-|jacu|muri|sagu|on.a|tama|tart|tatu|brom|uaca)/i,
+};
