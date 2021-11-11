@@ -1,20 +1,11 @@
 import timetables_1s_raw from "../../csv/timetables_1s.txt";
 import timetables_2s_raw from "../../csv/timetables_2s.txt";
 
-import { GROUP_NAMES, SUBJECT_NAMES } from "./constants";
+import { SUBJECT_NAMES_FROM_ABBREVIATIONS } from "./constants";
 
 let timetableStrings = [timetables_1s_raw, timetables_2s_raw];
 
 const timetableStore = {};
-
-// FIX GROUP_NAMES
-GROUP_NAMES.forEach((groupName) => {
-  const regexp = new RegExp(`.º ${groupName}`, "ig");
-
-  timetableStrings = timetableStrings.map((timetable) =>
-    timetable.replace(regexp, groupName)
-  );
-});
 
 // BUILDS timetableStore object with data from both timetable txt files
 const parseTimetables = (timetableString, index) => {
@@ -28,18 +19,20 @@ const parseTimetables = (timetableString, index) => {
   const groupStartingIndices = [];
 
   lines.forEach((line, index) => {
-    if (GROUP_NAMES.includes(line)) groupStartingIndices.push(index);
+    if (/º /.test(line)) groupStartingIndices.push(index);
   });
   groupStartingIndices.push(lines.length);
 
-  for (let i = 0, len = groupStartingIndices.length - 1; i <= len; i++) {
+  for (let i = 0, len = groupStartingIndices.length - 1; i < len; i++) {
     const [startIndex, endIndex] = [
       groupStartingIndices[i],
       groupStartingIndices[i + 1],
     ];
     const groupTimetable = lines.slice(startIndex, endIndex);
 
-    const [groupName, ...timetable] = groupTimetable;
+    let [groupName, ...timetable] = groupTimetable;
+    groupName = groupName.match(/[0-9]º (.*)/)[1].trim();
+
     let currentGroupStore = currentSemesterStore[groupName];
 
     if (!currentGroupStore) {
@@ -51,7 +44,7 @@ const parseTimetables = (timetableString, index) => {
       const [, ...classes] = row.split(",");
 
       classes.forEach((subject, index) => {
-        const subjectName = SUBJECT_NAMES[subject];
+        const subjectName = SUBJECT_NAMES_FROM_ABBREVIATIONS[subject];
         if (!currentGroupStore[subjectName])
           currentGroupStore[subjectName] = [];
         currentGroupStore[subjectName].push(index + 1);
