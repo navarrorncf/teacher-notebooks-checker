@@ -108,7 +108,7 @@ class ReportHandler {
             );
           }
 
-          if (innerContainer.firstChild) {
+          if (innerContainer && innerContainer.firstChild) {
             const cell = document.createElement("div");
             cell.classList.add("cell", "column");
             cell.innerText = report[config[2].type];
@@ -116,7 +116,7 @@ class ReportHandler {
             middleContainer = config[2].container([cell, innerContainer]);
           }
 
-          if (middleContainer.firstChild) {
+          if (middleContainer && middleContainer.firstChild) {
             const cell = document.createElement("div");
             cell.classList.add("cell", "column");
             cell.innerText = report[config[1].type];
