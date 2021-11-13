@@ -4,6 +4,7 @@ import {
   filterTypesSelectInput,
   filterOptionLabel,
   filterOptionsSelectInput,
+  pendingOnlyCheckbox,
 } from "./domElements";
 
 import SelectInputOption from "../components/SelectInputOption";
@@ -55,6 +56,7 @@ const filtersHandler = new FiltersHandler(appState);
 document.addEventListener("DOMContentLoaded", () => {
   const filterTypeInput = filterTypesSelectInput();
   const filterOptionInput = filterOptionsSelectInput();
+  const pendingOnlyInput = pendingOnlyCheckbox();
 
   filterTypeInput.append(
     ...[
@@ -72,6 +74,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   filterOptionInput.addEventListener("change", (e) => {
     appState.updateFilterOption(e.target.value);
+  });
+
+  pendingOnlyInput.addEventListener("change", (e) => {
+    appState.updatePendingOnly(e.target.checked);
   });
 });
 

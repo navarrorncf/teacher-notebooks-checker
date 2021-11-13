@@ -60,6 +60,7 @@ class ReportHandler {
 
     stateHandler.subscribe("filterOption", this);
     stateHandler.subscribe("bimestersConsidered", this);
+    stateHandler.subscribe("pendingOnly", this);
 
     this.stateHandler = stateHandler;
   }
