@@ -1,6 +1,5 @@
-import { getNodeWithInnerHTML } from "../utils/htmlGenerator";
+import AppTitle from "../components/AppTitle";
 
-const title = () =>
-  getNodeWithInnerHTML("<h1>CONTROLE DE DIÁRIOS</h1>", "div", ["title"]);
+const title = () => AppTitle();
 
 export default title;

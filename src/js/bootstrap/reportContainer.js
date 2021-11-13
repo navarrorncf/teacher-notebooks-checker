@@ -1,5 +1,5 @@
-import { getEmptyDiv } from "../utils/htmlGenerator";
+import ReportContainer from "../components/ReportContainer";
 
-const reportContainer = () => getEmptyDiv(["report-container"]);
+const reportContainer = () => ReportContainer();
 
 export default reportContainer;
