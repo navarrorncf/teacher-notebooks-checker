@@ -1,55 +1,7 @@
 import appState from "../StateHandler";
-import VerticalGroup from "../components/VerticalGroup";
-import HorizontalGroup from "../components/HorizontalGroup";
-import BimesterBox from "../components/BimesterBox";
 import { reportOutput } from "./domElements";
 import ReportTitle from "../components/ReportTitle";
-import EmptyReport from "../components/EmptyReport";
-
-const reportRowsConfig = {
-  teachers: {
-    1: {
-      type: "group",
-      container: HorizontalGroup,
-    },
-    2: {
-      type: "subject",
-      container: HorizontalGroup,
-    },
-    3: {
-      type: "bimesters",
-      container: VerticalGroup,
-    },
-  },
-  subjects: {
-    1: {
-      type: "teacher",
-      container: HorizontalGroup,
-    },
-    2: {
-      type: "group",
-      container: HorizontalGroup,
-    },
-    3: {
-      type: "bimesters",
-      container: VerticalGroup,
-    },
-  },
-  groups: {
-    1: {
-      type: "subject",
-      container: HorizontalGroup,
-    },
-    2: {
-      type: "teacher",
-      container: HorizontalGroup,
-    },
-    3: {
-      type: "bimesters",
-      container: VerticalGroup,
-    },
-  },
-};
+import Report from "../components/Report";
 
 class ReportHandler {
   constructor(stateHandler) {
@@ -85,60 +37,17 @@ class ReportHandler {
     this.clearReport();
 
     if (this.reports.length) {
-      const config = reportRowsConfig[this.filterType];
-
       this.output.append(ReportTitle(this.filterOption));
-
-      const rows = this.reports
-        .map((report) => {
-          const { bimesters, group, subject } = report;
-
-          let innerContainer, middleContainer, outercontainer;
-
-          const bimestersConsidered = Object.values(bimesters)
-            .filter(
-              (bimester) => this.bimestersConsidered[bimester.bimesterNumber]
-            )
-            .filter((bimester) => !this.pendingOnly || !bimester.isClosed)
-            .sort((b1, b2) => b1.bimesterNumber - b2.bimesterNumber);
-
-          if (bimestersConsidered.length) {
-            innerContainer = config[3].container(
-              bimestersConsidered.map((bimester) =>
-                BimesterBox(bimester, group, subject)
-              )
-            );
-          }
-
-          if (innerContainer && innerContainer.firstChild) {
-            const cell = document.createElement("div");
-            cell.classList.add("cell", "column");
-            cell.innerText = report[config[2].type];
-
-            middleContainer = config[2].container([cell, innerContainer]);
-          }
-
-          if (middleContainer && middleContainer.firstChild) {
-            const cell = document.createElement("div");
-            cell.classList.add("cell", "column");
-            cell.innerText = report[config[1].type];
-
-            outercontainer = config[1].container([cell, middleContainer]);
-            outercontainer.classList.add("row");
-          }
-
-          return outercontainer ? outercontainer : "";
-        })
-        .filter((row) => !!row);
-
-      if (rows.length) {
-        this.output.append(...rows);
-      } else {
-        this.output.append(EmptyReport(true));
-      }
-    } else {
-      this.output.append(EmptyReport(false));
     }
+
+    this.output.append(
+      ...Report(
+        this.reports,
+        this.filterType,
+        this.bimestersConsidered,
+        this.pendingOnly
+      )
+    );
   }
 
   clearReport() {

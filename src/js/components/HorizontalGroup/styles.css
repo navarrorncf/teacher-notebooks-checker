@@ -1,23 +1,3 @@
 .horizontal-group {
   display: flex;
 }
-
-.row {
-  border-bottom: solid 1px #bbb;
-}
-
-.row:nth-child(even) {
-  background: #eee;
-}
-
-.cell {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-weight: bold;
-}
-
-.column {
-  width: 32rem;
-}
