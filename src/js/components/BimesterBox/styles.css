@@ -1,0 +1,44 @@
+.bimester {
+  text-align: center;
+  padding: 2rem 0;
+  position: relative;
+}
+
+.bimester span.status {
+  font-size: 4rem;
+  text-align: center;
+  margin-left: 1rem;
+  position: absolute;
+  top: 1.5rem;
+  right: 2rem;
+}
+
+.bimester.open span.status {
+  color: #c00;
+}
+
+.bimester.closed span.status {
+  color: #080;
+}
+
+.bimester span.classes-insuficient,
+.bimester span.classes-suficient,
+.bimester span.classes-excess {
+  display: inline-block;
+  padding: 1rem 2rem;
+  margin-top: 0.5rem;
+  border-radius: 5px;
+  font-size: 1.6rem;
+}
+
+.bimester span.classes-insuficient {
+  background: #f002;
+}
+
+.bimester span.classes-suficient {
+  background: #0f02;
+}
+
+.bimester span.classes-excess {
+  background: #ff02;
+}
