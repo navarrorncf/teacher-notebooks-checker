@@ -4,6 +4,7 @@ import HorizontalGroup from "../components/HorizontalGroup";
 import BimesterBox from "../components/BimesterBox";
 import { reportOutput } from "./domElements";
 import ReportTitle from "../components/ReportTitle";
+import EmptyReport from "../components/EmptyReport";
 
 const reportRowsConfig = {
   teachers: {
@@ -133,12 +134,10 @@ class ReportHandler {
       if (rows.length) {
         this.output.append(...rows);
       } else {
-        this.output.innerHTML =
-          '<div class="none-pending"><span>🎉 Nenhuma pendência encontrada 🎉</span></div>';
+        this.output.append(EmptyReport(true));
       }
     } else {
-      this.output.innerHTML =
-        '<div class="no-option"><span>Por favor, selecione uma opção... 👀</span></div>';
+      this.output.append(EmptyReport(false));
     }
   }
 

@@ -1,0 +1,25 @@
+.no-option,
+.none-pending {
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.no-option span,
+.none-pending span {
+  padding: 4rem;
+  border-radius: 5px;
+}
+
+.no-option span {
+  background: #f002;
+  color: #811;
+}
+
+.none-pending span {
+  background: #0f02;
+  color: #040;
+}
