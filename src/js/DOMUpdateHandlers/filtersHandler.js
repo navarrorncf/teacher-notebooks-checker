@@ -79,6 +79,9 @@ document.addEventListener("DOMContentLoaded", () => {
   pendingOnlyInput.addEventListener("change", (e) => {
     appState.updatePendingOnly(e.target.checked);
   });
+
+  // Initial report render through an artificial event emitted
+  pendingOnlyInput.dispatchEvent(new Event("change"));
 });
 
 export default filtersHandler;
