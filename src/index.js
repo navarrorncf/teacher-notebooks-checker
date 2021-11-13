@@ -1,17 +1,5 @@
-import { getEmptyDiv } from "./js/utils/htmlGenerator";
+import App from "./App";
+import "./index.css";
 
-import bootstrap from "./js/bootstrap";
-
-/*
- * HTML STRUCTURE BOOSTRAPPING
- */
-
-const container = getEmptyDiv(["container"]);
-
-container.append(
-  bootstrap.title(),
-  bootstrap.options(),
-  bootstrap.reportContainer()
-);
-
-document.querySelector("body").appendChild(container);
+// Adds application to the DOM
+document.querySelector("body").appendChild(App);
