@@ -4,7 +4,7 @@ An application for checking teachers class registers and notebooks in iEducar, t
 
 ---
 
-# Usage
+# Usage 😎
 
 Clone or download this repository and install its dependencies using
 
@@ -55,6 +55,6 @@ The observer design pattern was a source of inspiration for the way the applicat
 
 ---
 
-## Final thoughts
+## Final thoughts 🙃
 
 This application is, as of now, a simple draft that can and should be improved. Knowing my coworkers, the only users of this app currently, it won't be long before they request new features. But I can rest knowing that the application architecture, though it can be improved, feels clean enough to be extended. 👌
