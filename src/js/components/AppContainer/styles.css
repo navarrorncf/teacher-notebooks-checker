@@ -1,4 +1,8 @@
 .app-container {
-  max-width: 96rem;
+  max-width: 104rem;
+  min-height: 100vh;
   margin: 0 auto;
+  background: #fafafa;
+  box-shadow: 0 0 5px 1px #0003;
+  padding: 4rem;
 }
