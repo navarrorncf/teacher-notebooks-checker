@@ -1,22 +1,23 @@
+import { options, reportContainer } from "../../App";
+
 export const filterOptionContainer = () =>
-  document.querySelector("#filter-option-container");
+  options.querySelector("#filter-option-container");
 
-export const pendingOnlyCheckbox = () =>
-  document.querySelector("#pending-only");
+export const pendingOnlyCheckbox = () => options.querySelector("#pending-only");
 
-export const reportOutput = () => document.querySelector("#report-container");
+export const reportOutput = () => reportContainer;
 
 export const filterTypesContainer = () =>
-  document.querySelector("#filter-type-container");
+  options.querySelector("#filter-type-container");
 
 export const bimestersCheckboxContainer = () =>
-  document.querySelector("#bimester-checkboxes");
+  options.querySelector("#bimester-checkboxes");
 
 export const filterOptionLabel = () =>
-  filterOptionContainer().querySelector("label");
+  options.querySelector("filter-option-label");
 
 export const filterOptionsSelectInput = () =>
-  filterOptionContainer().querySelector("select");
+  options.querySelector("#filter-option");
 
 export const filterTypesSelectInput = () =>
-  filterTypesContainer().querySelector("select");
+  options.querySelector("#filter-type");
