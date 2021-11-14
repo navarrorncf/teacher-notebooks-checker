@@ -14,7 +14,7 @@ export const bimestersCheckboxContainer = () =>
   options.querySelector("#bimester-checkboxes");
 
 export const filterOptionLabel = () =>
-  options.querySelector("filter-option-label");
+  options.querySelector("#filter-option-label");
 
 export const filterOptionsSelectInput = () =>
   options.querySelector("#filter-option");
