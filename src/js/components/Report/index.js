@@ -94,7 +94,13 @@ function Report(reports, filterType, bimestersConsidered, pendingOnly) {
 
         return outercontainer ? outercontainer : "";
       })
-      .filter((row) => !!row);
+      .filter((row) => !!row)
+      .sort((row1, row2) => {
+        const cellRow1 = row1.querySelectorAll(".cell")[0].innerText;
+        const cellRow2 = row2.querySelectorAll(".cell")[0].innerText;
+
+        return cellRow1.localeCompare(cellRow2);
+      });
 
     if (rows.length) {
       output = output.concat(rows);
