@@ -83,6 +83,7 @@ const UserOptions = () => {
 
   const filterOptionLabel = document.createElement("label");
   filterOptionLabel.setAttribute("for", "filter-option");
+  filterOptionLabel.id = "filter-option-label";
 
   filterOptionContainer.appendChild(filterOptionLabel);
 
