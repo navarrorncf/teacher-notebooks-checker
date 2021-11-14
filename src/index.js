@@ -2,4 +2,6 @@ import App from "./App";
 import "./index.css";
 
 // Adds application to the DOM
-document.querySelector("body").appendChild(App);
+window.addEventListener("DOMContentLoaded", () => {
+  document.querySelector("body").appendChild(App);
+});
