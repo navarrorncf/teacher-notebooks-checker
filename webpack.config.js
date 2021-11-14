@@ -1,5 +1,6 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const HtmlInlineScriptWebpackPlugin = require("html-inline-script-webpack-plugin");
 
 module.exports = {
   entry: "./src/index.js",
@@ -7,7 +8,7 @@ module.exports = {
     filename: "bundle.js",
     path: path.resolve(__dirname, "dist"),
   },
-  mode: "development",
+  mode: "production",
   module: {
     rules: [
       {
@@ -31,5 +32,6 @@ module.exports = {
       filename: "index.html",
       template: "src/templates/index.html",
     }),
+    new HtmlInlineScriptWebpackPlugin(),
   ],
 };

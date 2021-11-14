@@ -23,6 +23,7 @@
   "homepage": "https://github.com/navarrorncf/teacher-notebooks-checker#readme",
   "devDependencies": {
     "css-loader": "^6.5.1",
+    "html-inline-script-webpack-plugin": "^2.0.3",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.62.2",
