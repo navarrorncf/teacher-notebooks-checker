@@ -31,11 +31,12 @@ class FiltersHandler {
     // Gets the reference of dom elements
     const filterTypeInput = filterTypesSelectInput();
     const filterOptionInput = filterOptionsSelectInput();
+    const filterOptionLabelElement = filterOptionLabel();
 
     // Updates the label of the option filter input element
     const selectedIndex = filterTypeInput.selectedIndex;
     const selectedOption = filterTypeInput[selectedIndex];
-    filterOptionLabel.innerText = selectedOption.innerText;
+    filterOptionLabelElement.innerText = selectedOption.innerText;
 
     // Clears previous options
     while (filterOptionInput.firstChild) {
@@ -48,6 +49,9 @@ class FiltersHandler {
         SelectInputOption(option)
       )
     );
+
+    // Fires event so the report is updated
+    filterOptionInput.dispatchEvent(new Event("change"));
   }
 }
 
